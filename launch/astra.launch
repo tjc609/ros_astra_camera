@@ -7,7 +7,7 @@
     <arg name="serial_number" default=""/>
     <arg name="device_num" default="1"/>
     <arg name="vendor_id" default="0x2bc5"/>
-    <arg name="product_id" default=""/>
+    <arg name="product_id" default="0x0402"/>
     <arg name="enable_point_cloud" default="true"/>
     <arg name="enable_point_cloud_xyzrgb" default="false"/>
     <arg name="connection_delay" default="100"/>
